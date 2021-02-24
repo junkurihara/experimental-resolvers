@@ -20,3 +20,15 @@ Hosted on ConoHa VPS Tokyo region
 
 sdns://gRQxMTguMjcuMTE3LjExMzo1MDQ0Mw
 
+## anon-saldnssg01-conoha-ipv4
+
+Hosted on ConoHa VPS Singapore region
+
+sdns://gRQxNjMuNDQuMTU0LjE0NDo1MDQ0Mw
+
+
+## anon-saldnssg02-conoha-ipv4
+
+Hosted on ConoHa VPS Singapore region
+
+sdns://gRIxNjMuNDQuMTU1LjU6NTA0NDM
