@@ -1,6 +1,6 @@
 # Experimental DNSCrypt v2 resolvers
 
-**NOTE** Below are ones from an experimental project of DNS anonymization called $\mu$ODNS. They are exactly ones of DNSCrypt v2. These may stop sometimes for maintenance.
+**NOTE** Below are ones from an experimental project of DNS anonymization called &mu;ODNS. They are exactly ones of DNSCrypt v2. These may stop sometimes for maintenance.
 
 ## saldns01-conoha-ipv4
 
