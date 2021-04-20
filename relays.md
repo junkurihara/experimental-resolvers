@@ -1,4 +1,4 @@
-# Experimental anonymized DNS relays
+# Experimental anonymized DNS relays ($\mu$ODNS relays)
 
 **NOTE** Below are ones from an experimental project of DNS anonymization called $\mu$ODNS. They are compatible with relays of anonymized DNSCrypt. These may stop sometimes for maintenance.
 
