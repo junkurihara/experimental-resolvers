@@ -20,7 +20,6 @@ Hosted on ConoHa VPS Tokyo region (not a resolver, but just a relay)
 
 sdns://gRUxMzMuMTMwLjExMy4xNjM6NTA0NDM
 
-
 ## anon-saldnssg01-conoha-ipv4
 
 Hosted on ConoHa VPS Singapore region
