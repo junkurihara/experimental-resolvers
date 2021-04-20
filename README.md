@@ -1,4 +1,5 @@
-# experimental-resolvers
-Experimental resolver list for our project.
+# Experimental resolvers of DNSCrypt v2 and relays for $\mu$ODNS
 
-Servers listed in this repo are from an experimental project. These stop frequently, and **logging is enabled** for debugging. Please use the original relay list for your project.
+Experimental resolver list and relays for our project.
+
+Servers listed in this repo are from an experimental project called $\mu$ODNS. These may stop sometimes for maintenance. Client and server codes are publicly available soon.
