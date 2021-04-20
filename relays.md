@@ -1,27 +1,27 @@
 # Experimental anonymized DNS relays
 
-**NOTE** Below are ones from an experimental project. These stop frequently, and **logging is enabled** for debugging. Please use the original relay list for your project.
+**NOTE** Below are ones from an experimental project of DNS anonymization called $\mu$ODNS. They are compatible with relays of anonymized DNSCrypt. These may stop sometimes for maintenance.
 
 ## anon-saldns01-conoha-ipv4
 
-Hosted on ConoHa VPS Tokyo region
+Hosted on ConoHa VPS Tokyo region. No log.
 
 sdns://gRQxMTguMjcuMTA4LjE0MDo1MDQ0Mw
 
 ## anon-saldns02-conoha-ipv4
 
-Hosted on ConoHa VPS Tokyo region
+Hosted on ConoHa VPS Tokyo region. No log.
 
 sdns://gRUxMzMuMTMwLjExOC4xMDM6NTA0NDM
 
 ## anon-saldns99-conoha-ipv4
 
-Hosted on ConoHa VPS Tokyo region (not a resolver, but just a relay)
+Hosted on ConoHa VPS Tokyo region (not a resolver, but just a relay). No log
 
 sdns://gRUxMzMuMTMwLjExMy4xNjM6NTA0NDM
 
 ## anon-saldnssg01-conoha-ipv4
 
-Hosted on ConoHa VPS Singapore region
+Hosted on ConoHa VPS Singapore region. No log.
 
 sdns://gRQxNjMuNDQuMTU0LjE0NDo1MDQ0Mw
