@@ -4,8 +4,7 @@ This repo provides lists of experimental resolvers and relays for our experiment
 
 Our &mu;ODNS has been designed to protect user privacy in DNS even if a relay(s) collude with a resolver(s), which cannot be solved in existing DNS anonymization protocols. For the detailed information of &mu;ODNS, please refer to our concept paper below:
 
-> Jun Kurihara and Takeshi Kubo, ''Mutualized oblivious DNS (&mu;ODNS): Hiding a tree in the wild forest,'' Apr. 2021.
-> [Link to the concept paper, will be public on arXiv shortly]
+> Jun Kurihara and Takeshi Kubo, ''Mutualized oblivious DNS (&mu;ODNS): Hiding a tree in the wild forest,'' Apr. 2021. [https://arxiv.org/abs/2104.13785](https://arxiv.org/abs/2104.13785)
 
 **Relays and resolvers listed in this repo may stop sometimes for maintenance.** Source codes for PoC implementations of &mu;ODNS are now publicly available.
 
