@@ -22,4 +22,6 @@ If you want to just check if it works, you can try our DoH-&mu;ODNS translator f
 
 > https://dns.secarchlab.net/dns-query
 
+Target full-service resolvers are ones listed in this repo and Quad9 servers of no-filters.
+
 **NOTE**: Although our experimental resolvers and relays are ones with no log and no filter, **the DoH-&mu;ODNS filters some content by using public ad lists and logs blocking histories.** Please use this translator only for testing at your own risk, and do not use this translator for your private activity. From the concept of &mu;ODNS, you should build your dedicated relay. Also note that **it is not guaranteed that our translator works 24/365.**
