@@ -2,7 +2,7 @@
 
 This repo provides lists of experimental resolvers and relays for our experimental project called **&mu;ODNS** that is a **multiple-relay-based anonymization protocol for DNS queries**. Servers listed in this repo have been deployed with our PoC implementation given [here](https://github.com/junkurihara/dnscrypt-proxy-modns).
 
-Our &mu;ODNS has been designed to protect user privacy in DNS even if a relay(s) collude with a resolver(s), which cannot be solved in existing DNS anonymization protocols. For the detailed information of &mu;ODNS, please refer to our concept paper below:
+Our &mu;ODNS has been designed to protect user privacy in DNS even if a relay(s) colludes with a resolver(s), which cannot be solved in existing DNS anonymization protocols. For the detailed information of &mu;ODNS, please refer to our concept paper below:
 
 > Jun Kurihara and Takeshi Kubo, ''Mutualized oblivious DNS (&mu;ODNS): Hiding a tree in the wild forest,'' Apr. 2021. [https://arxiv.org/abs/2104.13785](https://arxiv.org/abs/2104.13785)
 
