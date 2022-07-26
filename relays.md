@@ -26,10 +26,4 @@ Hosted on ConoHa VPS Tokyo region (not a resolver, but just a relay). No log
 
 sdns://gRUxMzMuMTMwLjExMy4xNjM6NTA0NDM
 
-## anon-saldnssg01-conoha-ipv4
 
-**Will stop by June 30, 2022 due to VPS service termination**
-
-Hosted on ConoHa VPS Singapore region. No log.
-
-sdns://gRQxNjMuNDQuMTU0LjE0NDo1MDQ0Mw
