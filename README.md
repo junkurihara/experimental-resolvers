@@ -18,10 +18,13 @@ If you deploy your own relay on the Internet and want to public for the concept 
 
 ## DoH-&mu;ODNS translator just for testing
 
-If you want to just check if it works, you can try our DoH-&mu;ODNS translator from Chrome and Firefox browsers without using the above client. The translator converts DoH queries to PoC &mu;ODNS queries. It first works as the 'first-hop' relay of &mu;ODNS, and randomly choose subsequent (up to 2) relays from listed relays for user anonymity in DNS queries. The DoH address is:
+> **THIS TRANSLATOR IS NOT AVAILABLE NOW.**
+> Please use our PoC implementation of &mu;ODNS for your own relay and resolver.
 
-> https://dns.secarchlab.net/dns-query
+~~If you want to just check if it works, you can try our DoH-&mu;ODNS translator from Chrome and Firefox browsers without using the above client. The translator converts DoH queries to PoC &mu;ODNS queries. It first works as the 'first-hop' relay of &mu;ODNS, and randomly choose subsequent (up to 2) relays from listed relays for user anonymity in DNS queries. The DoH address is:~~
 
-Target full-service resolvers are ones listed in this repo and Quad9 servers of no-filters.
+~~> https://dns.secarchlab.net/dns-query~~
 
-**NOTE**: Although our experimental resolvers and relays are ones with no log and no filter, **the DoH-&mu;ODNS filters some content by using public ad lists and logs blocking histories.** Please use this translator only for testing at your own risk, and do not use this translator for your private activity. From the concept of &mu;ODNS, you should build your dedicated relay. Also note that **it is not guaranteed that our translator works 24/365.**
+~~Target full-service resolvers are ones listed in this repo and Quad9 servers of no-filters.~~
+
+~~**NOTE**: Although our experimental resolvers and relays are ones with no log and no filter, **the DoH-&mu;ODNS filters some content by using public ad lists and logs blocking histories.** Please use this translator only for testing at your own risk, and do not use this translator for your private activity. From the concept of &mu;ODNS, you should build your dedicated relay. Also note that **it is not guaranteed that our translator works 24/365.**~~
