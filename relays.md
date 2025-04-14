@@ -16,14 +16,6 @@ sdns://gRUxMzMuMTMwLjExOC4xMDM6NTA0NDM
 
 ## anon-saldns03-conoha-ipv4
 
-Hosted on ConoHa VPS Tokyo region. No log.
+Hosted on ConoHa VPS Tokyo region. No log. (Changed IP Address: 2025-04-14)
 
-sdns://gRQxMzMuMTMwLjk4LjI1MDo1MDQ0Mw
-
-## anon-saldns99-conoha-ipv4
-
-Hosted on ConoHa VPS Tokyo region (not a resolver, but just a relay). No log
-
-sdns://gRUxMzMuMTMwLjExMy4xNjM6NTA0NDM
-
-
+sdns://gRQxNjAuMjUxLjE2OC4yNTo1MDQ0Mw
