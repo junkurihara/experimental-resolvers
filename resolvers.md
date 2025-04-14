@@ -4,9 +4,9 @@
 
 ## saldns01-conoha-ipv4
 
-Hosted on ConoHa VPS Tokyo region. No log. No filter.
+Hosted on ConoHa VPS Tokyo region. No log. No filter. (Changed IP Address: 2025-04-14)
 
-sdns://AQcAAAAAAAAAFDExOC4yNy4xMDguMTQwOjUwNDQzIPL_JdttytAhcocG8vZH5EVk-uQKKose72bD0ji5G-xlIjIuZG5zY3J5cHQtY2VydC5zYWxkbnMwMS50eXBlcS5vcmc
+sdns://AQcAAAAAAAAAFDE2My40NC4xMjQuMjA0OjUwNDQzIGvWmxvhx79edG-xPZxrQR1g9jFOofVRDbPFCGWVGV1PIjIuZG5zY3J5cHQtY2VydC5zYWxkbnMwMS50eXBlcS5vcmc
 
 ## saldns02-conoha-ipv4
 
